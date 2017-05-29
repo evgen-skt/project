@@ -1,0 +1,4 @@
+*.exe
+!123.exe
+logs/*
+*.[log]
